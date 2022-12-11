@@ -1,6 +1,8 @@
-#Riften
+#riften #thievesguild
 
 [Wiki Page](https://elderscrolls.fandom.com/wiki/Goldenglow_Estate)
 
-Basement Door --> [[Bleak Falls Barrow Entrance]]
+Western Basement Door --> [[Bleak Falls Barrow Entrance]]
+
+
 
